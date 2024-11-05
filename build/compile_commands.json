@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/yuanquan/C++/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -g -O3 -I/opt/homebrew/Cellar/llvm/19.1.2/include -std=c++17 -stdlib=libc++   -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/toy.dir/toy.cpp.o -c /Users/yuanquan/C++/src/toy.cpp",
+  "file": "/Users/yuanquan/C++/src/toy.cpp",
+  "output": "CMakeFiles/toy.dir/toy.cpp.o"
+}
+]
